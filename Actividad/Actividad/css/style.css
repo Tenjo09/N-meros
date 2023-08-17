@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+   padding: 0;
+   background-color: #54BAD8;
+}
+#titulo{
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+#sec_numeros{
+    padding: 3%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#numero{
+   
+    text-align: center;
+    background-color: #FFFFFF;
+}
+#enviar{
+    background-color: #FFFFFF;
+}
+#valor_numero{
+    background-color: #FFFFFF;
+}
+.resultado{
+    text-align: center;
+    color: #FFFFFF;
+    padding: 20px;
+}
+button{
+    background-color: #FFFFFF;
+    width: 10%;
+    margin: 5%;
+}
